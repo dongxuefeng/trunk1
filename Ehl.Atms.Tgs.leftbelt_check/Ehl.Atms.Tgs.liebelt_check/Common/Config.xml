@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Wfxws>
+    <Wfxw>
+      <Wfxwms>越黄线</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>超速</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>闯红灯</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>牌照比对</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>大货车禁行</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>黄标车</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>违法停车</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>走专用道</Wfxwms>
+      <Code></Code>
+    </Wfxw>
+  </Wfxws>
+  <Zqmj></Zqmj>
+</Config>

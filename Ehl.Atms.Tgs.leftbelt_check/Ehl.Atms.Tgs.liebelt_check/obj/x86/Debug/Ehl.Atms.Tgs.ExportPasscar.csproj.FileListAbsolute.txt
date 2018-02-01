@@ -1,0 +1,11 @@
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\bin\Debug\Ehl.Atms.Tgs.ExportPasscar.exe.config
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.Form1.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.InterfixForm.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.Properties.Resources.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.csproj.GenerateResource.Cache
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\bin\Debug\Ehl.Atms.Tgs.ExportPasscar.exe
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\bin\Debug\Ehl.Atms.Tgs.ExportPasscar.pdb
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\bin\Debug\zoom_image_ctrl.dll
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\bin\Debug\zoom_image_ctrl.pdb
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.exe
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.ExportPasscar\Ehl.Atms.Tgs.ExportPeccancy\obj\x86\Debug\Ehl.Atms.Tgs.ExportPasscar.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Wfxws>
+    <Wfxw>
+      <Wfxwms>越黄线</Wfxwms>
+      <Code>1003,</Code>
+    </Wfxw>
+    <Wfxw>
+	     <Wfxwms>超速</Wfxwms>
+      <Code>13061,16361,17211,13521,46101,47111,47071,46091,47061,13011,47101,</Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>闯红灯</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>牌照比对</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>大货车禁行</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>黄标车</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>违法停车</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+    <Wfxw>
+      <Wfxwms>走专用道</Wfxwms>
+      <Code>
+      </Code>
+    </Wfxw>
+  </Wfxws>
+  <Zqmj>11111</Zqmj>
+  <start_datetime>2015-12-11 0:0:0</start_datetime>
+</Config>

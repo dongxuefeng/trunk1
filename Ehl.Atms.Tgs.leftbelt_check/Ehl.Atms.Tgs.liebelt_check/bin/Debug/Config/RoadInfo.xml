@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <RoadInfoList>
+    <RoadInfo kkid="610901000003">
+      <sbbh>610901000010030003</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康段爱子坪隧道</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1221</lddm>
+      <ms>360</ms>
+      <dlmc>京昆高速1221公里360米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000004">
+      <sbbh>610901000010030004</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康段大河坝测速</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1239</lddm>
+      <ms>975</ms>
+      <dlmc>京昆高速1239公里975米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000002">
+      <sbbh>610901000010030006</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康段秦岭二号隧道卡口</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1165</lddm>
+      <ms>400</ms>
+      <dlmc>京昆高速1165公里400米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000001">
+      <sbbh>610901000010030007</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康段秦岭三号隧道卡口</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1177</lddm>
+      <ms>638</ms>
+      <dlmc>京昆高速1177公里638米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000011">
+      <sbbh>610901000010030011</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康龙王坪</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1210</lddm>
+      <ms>480</ms>
+      <dlmc>京昆高速1210公里480米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000012">
+      <sbbh>610901000010030012</sbbh>
+      <sblx>3</sblx>
+      <sbmc>京昆高速安康段八宝坪</sbmc>
+      <dldm>00005</dldm>
+      <lddm>1199</lddm>
+      <ms>300</ms>
+      <dlmc>京昆高速1199公里300米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000005">
+      <sbbh>610901000010031004</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段安康方向小河</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1023</lddm>
+      <ms>330</ms>
+      <dlmc>包茂高速1023公里330米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000006">
+      <sbbh>610901000010031005</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段安康方向包家山</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1047</lddm>
+      <ms>428</ms>
+      <dlmc>包茂高速1047公里428米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000007">
+      <sbbh>610901000010031006</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段安康方向五里</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1078</lddm>
+      <ms>800</ms>
+      <dlmc>包茂高速1078公里800米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000008">
+      <sbbh>610901000010031007</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段西安方向五里</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1080</lddm>
+      <ms>400</ms>
+      <dlmc>包茂高速1080公里400米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000009">
+      <sbbh>610901000010031008</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段西安方向包家山</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1047</lddm>
+      <ms>389</ms>
+      <dlmc>包茂高速1047公里389米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000010">
+      <sbbh>610901000010031009</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速安康段西安方向小河</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1022</lddm>
+      <ms>670</ms>
+      <dlmc>包茂高速1022公里670米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000013">
+      <sbbh>610901000010031501</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速凤凰山隧道北</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1094</lddm>
+      <ms>666</ms>
+      <dlmc>包茂高速1094公里666米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000014">
+      <sbbh>610901000010031502</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速凤凰山隧道南</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1100</lddm>
+      <ms>934</ms>
+      <dlmc>包茂高速1100公里934米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000015">
+      <sbbh>610901000010031503</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速毛坝隧道北</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1167</lddm>
+      <ms>045</ms>
+      <dlmc>包茂高速1167公里045米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000016">
+      <sbbh>610901000010031504</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速麻柳隧道南</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1174</lddm>
+      <ms>641</ms>
+      <dlmc>包茂高速1174公里641米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000017">
+      <sbbh>610901000010031505</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速巴山隧道北</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1186</lddm>
+      <ms>169</ms>
+      <dlmc>包茂高速1186169米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000018">
+      <sbbh>610901000010031506</sbbh>
+      <sblx>3</sblx>
+      <sbmc>包茂高速k1182+200卡口</sbmc>
+      <dldm>00065</dldm>
+      <lddm>1182</lddm>
+      <ms>200</ms>
+      <dlmc>包茂高速1182公里200米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000023">
+      <sbbh>610901000010031507</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速k79+300卡口</sbmc>
+      <dldm>07011</dldm>
+      <lddm>79</lddm>
+      <ms>300</ms>
+      <dlmc>十天高速0079公里300米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000024">
+      <sbbh>610901000010031508</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速老屋场隧道东</sbmc>
+      <dldm>07011</dldm>
+      <lddm>89</lddm>
+      <ms>70</ms>
+      <dlmc>十天高速0089公里070米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000019">
+      <sbbh>610901000010031509</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速k185+100卡口</sbmc>
+      <dldm>07011</dldm>
+      <lddm>185</lddm>
+      <ms>100</ms>
+      <dlmc>十天高速0185公里100米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000020">
+      <sbbh>610901000010031510</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速k171+500卡口</sbmc>
+      <dldm>07011</dldm>
+      <lddm>171</lddm>
+      <ms>500</ms>
+      <dlmc>十天高速0171公里500米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000021">
+      <sbbh>610901000010031511</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速k94+800卡口</sbmc>
+      <dldm>07011</dldm>
+      <lddm>94</lddm>
+      <ms>800</ms>
+      <dlmc>十天高速0094公里800米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000022">
+      <sbbh>610901000010031512</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速k80+300卡口</sbmc>
+      <dldm>07011</dldm>
+      <lddm>80</lddm>
+      <ms>300</ms>
+      <dlmc>十天高速0080公里300米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000030">
+      <sbbh>610901000010031513</sbbh>
+      <sblx>3</sblx>
+      <sbmc>安徽文康科技有限公司</sbmc>
+      <dldm>07011</dldm>
+      <lddm>279</lddm>
+      <ms>000</ms>
+      <dlmc>十天高速0279公里000米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000036">
+      <sbbh>610901000010031613</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速597km+768m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>597</lddm>
+      <ms>768</ms>
+      <dlmc>麻城-安康高速公路0597公里768米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000038">
+      <sbbh>610901000010031614</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速644km+517m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>644</lddm>
+      <ms>517</ms>
+      <dlmc>麻城-安康高速公路0644公里517米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000037">
+      <sbbh>610901000010031615</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速648km+109m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>648</lddm>
+      <ms>109</ms>
+      <dlmc>麻城-安康高速公路0648公里109米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000033">
+      <sbbh>610901000010031616</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速651km+426m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>651</lddm>
+      <ms>426</ms>
+      <dlmc>麻城-安康高速公路0651公里426米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000034">
+      <sbbh>610901000010031617</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速654km+969m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>654</lddm>
+      <ms>969</ms>
+      <dlmc>麻城-安康高速公路0654公里969米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000035">
+      <sbbh>610901000010031618</sbbh>
+      <sblx>3</sblx>
+      <sbmc>麻安高速601km+503m</sbmc>
+      <dldm>04213</dldm>
+      <lddm>601</lddm>
+      <ms>503</ms>
+      <dlmc>麻城-安康高速公路0601公里503米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000029">
+      <sbbh>610901000010031619</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速279Km+682m</sbmc>
+      <dldm>07011</dldm>
+      <lddm>279</lddm>
+      <ms>682</ms>
+      <dlmc>十天高速0279公里682米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000027">
+      <sbbh>610901000010031620</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速256Km+400</sbmc>
+      <dldm>07011</dldm>
+      <lddm>256</lddm>
+      <ms>400</ms>
+      <dlmc>十天高速0256公里400米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000028">
+      <sbbh>610901000010031621</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速248Km+969m</sbmc>
+      <dldm>07011</dldm>
+      <lddm>248</lddm>
+      <ms>969</ms>
+      <dlmc>十天高速0248公里969米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000029">
+      <sbbh>610901000010031622</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速278Km+912m</sbmc>
+      <dldm>07011</dldm>
+      <lddm>278</lddm>
+      <ms>969</ms>
+      <dlmc>十天高速0278公里969米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000026">
+      <sbbh>610901000010031623</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速235Km+958m</sbmc>
+      <dldm>07011</dldm>
+      <lddm>235</lddm>
+      <ms>958</ms>
+      <dlmc>十天高速0235公里958米</dlmc>
+    </RoadInfo>
+    <RoadInfo kkid="610901000025">
+      <sbbh>610901000010031624</sbbh>
+      <sblx>3</sblx>
+      <sbmc>十天高速223Km+491m</sbmc>
+      <dldm>07011</dldm>
+      <lddm>223</lddm>
+      <ms>491</ms>
+      <dlmc>十天高速0223公里491米</dlmc>
+    </RoadInfo>
+  </RoadInfoList>
+</Root>

@@ -1,0 +1,10 @@
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\bin\Debug\test_ctrl.exe
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\bin\Debug\test_ctrl.pdb
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\bin\Debug\zoom_image_ctrl.dll
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\bin\Debug\zoom_image_ctrl.pdb
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.csprojResolveAssemblyReference.cache
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.Form1.resources
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.Properties.Resources.resources
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.csproj.GenerateResource.Cache
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.exe
+E:\项目\lifebelt_check\trunk\zoom_image_ctrl2\test_ctrl\obj\x86\Debug\test_ctrl.pdb

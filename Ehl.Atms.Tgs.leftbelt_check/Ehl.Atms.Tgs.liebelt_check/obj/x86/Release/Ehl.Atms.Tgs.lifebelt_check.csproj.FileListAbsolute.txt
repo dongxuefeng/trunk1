@@ -1,0 +1,17 @@
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\Ehl.Atms.Tgs.lifebelt_check.exe.config
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.animateImage.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.Form1.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.Properties.Resources.resources
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.csproj.GenerateResource.Cache
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.exe
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.pdb
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\Ehl.Atms.Tgs.lifebelt_check.exe
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\Ehl.Atms.Tgs.lifebelt_check.XmlSerializers.dll
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\Ehl.Atms.Tgs.lifebelt_check.pdb
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\zoom_image_ctrl.dll
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\zoom_image_ctrl.pdb
+E:\项目\lifebelt_check\trunk\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.XmlSerializers.dll
+E:\workspace\trunk1\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\bin\Release\Ehl.Atms.Tgs.lifebelt_check.exe.config
+E:\workspace\trunk1\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.exe
+E:\workspace\trunk1\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.pdb
+E:\workspace\trunk1\Ehl.Atms.Tgs.leftbelt_check\Ehl.Atms.Tgs.liebelt_check\obj\x86\Release\Ehl.Atms.Tgs.lifebelt_check.XmlSerializers.dll
